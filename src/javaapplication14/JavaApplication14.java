@@ -17,6 +17,7 @@ public class JavaApplication14 {
         // TODO code application logic here
         System.out.println("OSU!");
         System.out.println("a");
+        System.out.println("a");
     }
     
 }
